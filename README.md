@@ -11,3 +11,8 @@ Auditing and data cleaning were performed in this analysis.
 
 https://docs.microsoft.com/en-us/sql/sql-operations-studio/download?view=sql-server-2017
 
+# Meta
+
+Grace Cho - Circleoffifths.7@gmail.com
+
+https://github.com/GraceCho11
